@@ -6,66 +6,38 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="drawing.svg"
-   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 25.4 25.4"
+   width="96"
    height="96"
-   width="96">
+   viewBox="0 0 25.4 25.4"
+   version="1.1"
+   id="svg8">
   <defs
      id="defs2">
     <rect
-       id="rect1486"
-       height="21.035052"
-       width="10.058281"
+       x="12.434038"
        y="2.3362073"
-       x="12.434038" />
+       width="10.058281"
+       height="21.035052"
+       id="rect1486" />
     <rect
-       id="rect1476"
-       height="20.919115"
-       width="9.9085846"
+       x="12.508415"
        y="2.3946379"
-       x="12.508415" />
+       width="9.9085846"
+       height="20.919115"
+       id="rect1476" />
     <rect
-       id="rect1468"
-       height="20.989242"
-       width="9.5900969"
+       x="2.8944744"
        y="2.3449143"
-       x="2.8944744" />
+       width="9.5900969"
+       height="20.989242"
+       id="rect1468" />
     <rect
-       id="rect1404"
-       height="20.678791"
-       width="20.012976"
+       x="2.645408"
        y="2.4320993"
-       x="2.645408" />
+       width="20.012976"
+       height="20.678791"
+       id="rect1404" />
   </defs>
-  <sodipodi:namedview
-     showguides="true"
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:window-height="685"
-     inkscape:window-width="1366"
-     units="px"
-     showgrid="true"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer3"
-     inkscape:document-units="mm"
-     inkscape:cy="48.713763"
-     inkscape:cx="53.816673"
-     inkscape:zoom="3.959798"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base">
-    <inkscape:grid
-       id="grid1510"
-       type="xygrid" />
-  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -79,65 +51,62 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 2"
-     id="layer2"
-     inkscape:groupmode="layer">
+          id="layer2">
     <rect
-       y="2.6458333"
-       x="2.6458333"
-       height="19.84375"
-       width="19.84375"
-       id="rect1520"
-       style="fill:#000000;fill-opacity:1;stroke:#e3e3e3;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            style="fill:#000000;fill-opacity:1;stroke:#e3e3e3;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+            id="rect1520"
+            width="19.84375"
+            height="19.84375"
+            x="2.6458333"
+            y="2.6458333" />
     <path
-       inkscape:connector-curvature="0"
-       id="path1540"
-       d="m 11.90625,11.90625 0.264583,1.322917"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+            d="m 11.90625,11.90625 0.264583,1.322917"
+            id="path1540" />
   </g>
   <g
-     id="layer1"
-     inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <text
-       transform="scale(0.26458333)"
-       y="21.952009"
-       x="-1.6320007"
-       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:39.9999px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1404);fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;"
        id="text1402-3"
-       style="font-style:normal;font-weight:normal;font-size:39.9999px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1404);fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;" />
+       xml:space="preserve"
+       x="-1.6320007"
+       y="21.952009"
+       transform="scale(0.26458333)" />
     <text
-       transform="translate(1.6131092,-0.27084)"
-       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1468);fill:#ffffff;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
        id="text1466"
-       xml:space="preserve"><tspan
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1468);fill:#ffffff;fill-opacity:1;stroke:none;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal;"
+       transform="matrix(1.0941408,0,0,1,1.2999655,-0.27084)"><tspan
          sodipodi:role="line"
          x="2.8945312"
-         y="10.258008"><tspan>H</tspan><tspan
-           dx="6.3500023" /></tspan><tspan
+         y="10.258008"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">H</tspan><tspan
+           dx="6.3500023"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></tspan><tspan
          sodipodi:role="line"
          x="2.8945312"
-         y="20.841346"><tspan>S</tspan></tspan></text>
+         y="20.841346"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">S</tspan></tspan></text>
     <text
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;shape-inside:url(#rect1476);white-space:pre;"
+       xml:space="preserve"
        id="text1474"
-       xml:space="preserve" />
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;shape-inside:url(#rect1476);white-space:pre;" />
     <text
-       id="text1482"
-       y="11.50418"
-       x="17.760244"
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.264583"
-         y="11.50418"
-         x="17.760244"
+       x="17.760244"
+       y="11.50418"
+       id="text1482"><tspan
          id="tspan1480"
-         sodipodi:role="line" /></text>
+         x="17.760244"
+         y="11.50418"
+         style="stroke-width:0.264583" /></text>
     <text
-       transform="translate(2.4609016,-0.34334445)"
-       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1486);fill:#ffffff;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
        id="text1484"
-       xml:space="preserve"><tspan
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1486);fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="matrix(1.0702505,0,0,1,1.1859532,-0.34334445)"><tspan
          sodipodi:role="line"
          x="12.433594"
          y="10.248242"><tspan>A</tspan><tspan
@@ -147,18 +116,14 @@
          y="20.83158"><tspan>H</tspan></tspan></text>
   </g>
   <g
-     inkscape:label="Layer 3"
-     id="layer3"
-     inkscape:groupmode="layer">
+     id="layer3">
     <path
-       inkscape:connector-curvature="0"
-       id="path1543"
-       d="m 11.966417,11.851117 0.411854,1.364003 0.859909,-0.72155 z"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 12.144017,11.719854 0.09446,1.42169 1.000183,-0.50962 z"
+       id="path1543" />
     <path
-       inkscape:connector-curvature="0"
-       id="path1545"
-       d="M 12.461497,12.731826 12.94253,13.3051 13.229167,13.064583 12.748133,12.49131 Z"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 12.428292,12.689358 0.339745,0.666791 0.333396,-0.169873 -0.339748,-0.666789 z"
+       id="path1545" />
   </g>
 </svg>
