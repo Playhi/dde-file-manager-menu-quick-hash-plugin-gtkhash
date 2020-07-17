@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Icon=net.playhi.dde-file-manager-menu-quick-hash-plugin-gtkhash
+Type=Application
+Categories=Utility;
+Name=Hash
+Name[zh_CN]=哈希
+Exec=dedit "/opt/apps/net.playhi.dde-file-manager-menu-quick-hash-plugin-gtkhash/files/bin/readme.txt"
+Terminal=false

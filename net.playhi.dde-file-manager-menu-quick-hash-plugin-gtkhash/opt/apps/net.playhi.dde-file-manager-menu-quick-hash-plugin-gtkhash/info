@@ -1,6 +1,6 @@
 {
     "appid": "net.playhi.dde-file-manager-menu-quick-hash-plugin-gtkhash",
-    "name": "文件管理器右键哈希（套GTKHash）",
+    "name": "文件管理器右键哈希（套GtkHash）",
     "version": "1.0.0.1",
     "arch": ["amd64","mips64el","mips64","sw_64","arm64"],
     "permissions": {
