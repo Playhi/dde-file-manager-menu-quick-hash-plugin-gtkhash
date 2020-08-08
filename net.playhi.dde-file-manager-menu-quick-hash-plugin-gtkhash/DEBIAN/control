@@ -1,10 +1,10 @@
 Package: net.playhi.dde-file-manager-menu-quick-hash-plugin-gtkhash
-Version: 1.0.0.1
+Version: 1.0.1.2
 Section: utils
 Priority: extra
 Architecture: all
 Depends: dde-file-manager (>= 4.0), dde-file-manager-menu-oem, gtkhash, python3
 Installed-Size: 20
 Homepage: https://github.com/Playhi/dde-file-manager-menu-quick-hash-plugin-gtkhash
-Maintainer: hiplayhi@playhi.net
+Maintainer: Playhi <hiplayhi@playhi.net>
 Description: Add an item to request GtkHash to calculate the hash of the selected file(s) in the dde-file-manager right-click menu.
